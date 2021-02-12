@@ -55,5 +55,5 @@ ___
 * 스택 : 값이 위로 쌓이는 구조 => LIFO
 * 딕셔너리 : 키-값으로 이루어진 자료 구조
 
-![수료증](file:///Users/minsung/Downloads/certificate_A20210212-046135%20(1).pdf)
+![file:///Users/minsung/Downloads/certificate_A20210212-046135%20(1).pdf]()
 
